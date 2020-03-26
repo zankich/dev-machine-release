@@ -1,0 +1,10 @@
+---
+name: machine-setup
+
+templates:
+  run.sh: bin/run
+  env_vars: dotfiles/env_vars
+
+packages: []
+
+properties: {}
